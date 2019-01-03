@@ -6,15 +6,23 @@
     <link rel="stylesheet" href="/css/default_style.css">
   </head>
   <body>
-    <header>
-      <img src="/img/HeadshotCircle.png" class="header">
-      <h1 class="header">Arthur Dickerson</h1>
-      <nav class="header">
-        <a href="/">About Me</a>
-        <a href="/blog/">Blog</a>
-      </nav>
-    </header>
-                                                
+    <section id="posts">
+      <div id="pagehead">
+        <img src="/img/HeadshotCircle.png">
+        <h1 class="header">Arthur Dickerson</h1>
+        <div>
+          <p id="description">
+            Christian, Husband, IT Guy, and soon to be Dad.
+          </p>
+          <nav>
+            <a href="/">About</a>
+            <a href="/blog/">Blog</a>
+            <a href="https://twitter.com/arthurddickerso">Twitter</a>
+          </nav>
+        </div>
+      </div>
+    </section>
+    
     <h2>{{ page.title }}</h2>
     <section>
       {{ content }}
