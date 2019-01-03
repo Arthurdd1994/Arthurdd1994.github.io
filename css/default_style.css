@@ -29,7 +29,7 @@ section#posts {
 }
 
 .header img {
-    max-width: 20%;
+    height: 6em;
     float: left;
     padding: 5px;
 }
