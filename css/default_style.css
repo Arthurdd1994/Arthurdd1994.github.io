@@ -17,6 +17,10 @@ section#posts {
     margin: 0 auto;
 }
 
+h1#tophead {
+    display: inline;
+}
+
 #headshot {
     width: 100px;
     display: inline;
