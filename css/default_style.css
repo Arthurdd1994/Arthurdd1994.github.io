@@ -29,10 +29,9 @@ section#posts {
     padding: 5px;
 }
 
-img.header {
-    width: 20%;
-    height: 20%;
-    display: inline;
+#subhead {
+    position: relative;
+    left: 10px;
 }
 
 
