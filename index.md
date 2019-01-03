@@ -4,7 +4,7 @@ title: Arthur Dickerson
 
 ## About Me
 
-![Arthur Headshot](/img/HeadshotCircle.png | width=200)
+![Arthur Headshot](/img/HeadshotCircle.png)
 
 Hi, I'm Arthur.
 
