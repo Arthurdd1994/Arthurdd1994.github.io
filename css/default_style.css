@@ -17,11 +17,13 @@ section#posts {
     margin: 0 auto;
 }
 
-h1#tophead {
-    display: inline;
+.header h1 {
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
 
-#headshot {
+.header img {
     width: 100px;
     float: left;
     padding: 5px;
