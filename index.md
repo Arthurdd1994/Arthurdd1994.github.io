@@ -1,5 +1,6 @@
 ---
 title: Arthur Dickerson
+layout: default
 ---
 
 ## About Me
