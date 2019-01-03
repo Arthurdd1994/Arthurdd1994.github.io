@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
     background-color: #fff;
     color: #222222;
@@ -13,7 +17,7 @@ body {
 section#posts {
     position: relative;
     display: block;
-    width: 620px;
+    max-width: 620px;
     margin: 0 auto;
 }
 
