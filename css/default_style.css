@@ -23,7 +23,7 @@ h1#tophead {
 
 #headshot {
     width: 100px;
-    display: inline;
+    float: left;
     padding: 5px;
 }
 
