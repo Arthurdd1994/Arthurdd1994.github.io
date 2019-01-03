@@ -1,9 +1,7 @@
 ---
-title: Arthur Dickerson
+title: About Me
 layout: default
 ---
-
-## About Me
 
 Hi, I'm Arthur.
 
