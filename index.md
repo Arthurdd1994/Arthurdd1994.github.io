@@ -3,4 +3,8 @@ title: Arthur Dickerson
 layout: default
 ---
 
-Testing
+{% for post in site.posts %}
+  <article>
+      {{ post.content }}
+  </article>
+{% endfor %}
