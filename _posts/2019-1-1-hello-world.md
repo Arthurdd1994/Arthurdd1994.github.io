@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-published: false
+published: true
 ---
 
 This is my first blog post!
