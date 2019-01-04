@@ -54,7 +54,7 @@ section#posts {
 }
 
 @media only screen and (max-width: 600px) {
-  .header nav {
+  .header nav a {
     display: block;
   }
 }
