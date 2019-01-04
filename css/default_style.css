@@ -40,6 +40,7 @@ section#posts {
   margin-left: 9em;
 }
 
-.header {
-  display: block;
+#head {
+ padding-bottom: 2em; 
 }
+
