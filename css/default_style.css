@@ -43,6 +43,10 @@ section#posts {
   text-decoration: underline;
 }
 
+.header nav {
+  padding: 0 1em;
+}
+
 #head {
   position: relative;
   margin-left: 8em;
