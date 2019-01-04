@@ -1,10 +1,11 @@
 ---
-title: Arthur Dickerson
+title: 
 layout: default
 ---
 
 {% for post in site.posts %}
-  <article>
-      {{ post.content }}
+  <article class="post">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {{ post.content }}
   </article>
 {% endfor %}
