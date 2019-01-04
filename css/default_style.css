@@ -43,7 +43,7 @@ section#posts {
   text-decoration: underline;
 }
 
-.header nav {
+.header nav a {
   padding: 0 1em;
 }
 
