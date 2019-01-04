@@ -3,7 +3,7 @@ title: Archive
 layout: default
 ---
 
-<ul>
+<ul class="postList">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
