@@ -53,6 +53,13 @@ section#posts {
   padding-bottom: 1em; 
 }
 
+.postList li a {
+  color: #ffffff;
+}
+
+
+  
+
 @media only screen and (max-width: 600px) {
   .header nav a {
     display: block;
