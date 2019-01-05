@@ -7,7 +7,8 @@ layout: default
 
 {% for post in site.posts %}
   <article class="post">
-    <a href="{{ post.url }}">{{ post.title }}</a>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.content }}
   </article>
+  <hr>
 {% endfor %}
