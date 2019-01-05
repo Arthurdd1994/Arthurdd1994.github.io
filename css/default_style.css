@@ -13,7 +13,7 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-section#posts {
+#posts {
   position: relative;
   display: block;
   max-width: 620px;
