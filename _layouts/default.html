@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/css/default_style.css">
   </head>
   <body>
-    <section id="posts">
+    <div id="posts">
       <div id="pagehead" class="header">
         <img src="/img/HeadshotCircle.png" id="headshot">
         <div id="head">
@@ -22,14 +22,13 @@
           </nav>
         </div>
       </div>
-      <article>
-        <h2>{{ page.title }}</h2>
+      <section>
         {{ content }}
-      </article>
+      </section>
       <footer>
         &copy; to me
       </footer>
-    </section>
+    </div>
     
     
   </body>
