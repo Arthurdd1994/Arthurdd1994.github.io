@@ -1,5 +1,5 @@
 ---
-title: 
+title: Arthur Dickerson
 layout: default
 ---
 
