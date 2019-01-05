@@ -59,12 +59,11 @@ body {
 }
   
 
-/* @media only screen and (max-width: 600px) {
-  .header nav a {
-    display: block;
-    padding: 0;
+@media only screen and (max-width: 500px) {
+  .header img {
+    height: 6em;
   }
-} */
+}
 
 
 
