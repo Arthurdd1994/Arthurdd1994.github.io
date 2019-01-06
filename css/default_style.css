@@ -61,7 +61,7 @@ body {
 }
   
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 590px) {
   .header img {
     height: 6em;
     display:block;
