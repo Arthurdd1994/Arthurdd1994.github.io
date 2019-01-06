@@ -61,6 +61,15 @@ body {
 .post article {
   padding-top: 1em;
 }
+
+.post a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.post a:hover {
+  text-decoration: underline;
+}
   
 
 @media only screen and (max-width: 590px) {
