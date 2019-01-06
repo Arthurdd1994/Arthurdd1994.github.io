@@ -64,6 +64,12 @@ body {
 @media only screen and (max-width: 500px) {
   .header img {
     height: 6em;
+    display:block;
+    margin: 0 auto;
+  }
+  
+  .headText {
+    margin: 0 auto;
   }
 }
 
