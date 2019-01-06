@@ -14,7 +14,7 @@ body {
 }
 
 #posts {
-  position: relative;
+  /* position: relative; */
   display: block;
   max-width: 620px;
   margin: 0 auto;
