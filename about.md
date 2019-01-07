@@ -3,8 +3,6 @@ title: About Me
 layout: default
 ---
 
-## About Me
-
 Hey, I’m Arthur.
 
 I’m a longtime computer nerd, casual gamer and self-proclaimed audio engineer. I married my high-school sweetheart Amanda in 2015 and we are now expecting a new addition to the family in Q2 2019!
