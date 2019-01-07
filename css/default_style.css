@@ -79,10 +79,6 @@ body {
   margin-bottom: 0;
 }
 
-.post img {
-  margin: auto;
-}
-
 .postDate {
   font-size: .75em;
   color: #c0c0c0;
@@ -91,6 +87,10 @@ body {
 .content img {
   margin: auto;
   display: block;
+}
+
+.content a {
+  color: #c0c0c0;
 }
 
 footer {
