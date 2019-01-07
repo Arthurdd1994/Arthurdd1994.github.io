@@ -88,8 +88,9 @@ body {
   color: #c0c0c0;
 }
 
-.content p img {
+.content img {
   margin: auto;
+  display: block;
 }
 
 footer {
