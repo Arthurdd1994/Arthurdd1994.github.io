@@ -54,6 +54,10 @@ body {
   margin: auto 0;
 }
 
+.postList {
+  list-style-type: none;
+}
+
 .postList li a {
   color: #ffffff;
 }
