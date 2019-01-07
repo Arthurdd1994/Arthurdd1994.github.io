@@ -58,6 +58,10 @@ body {
   color: #ffffff;
 }
 
+.postList h3 {
+  display: inline;
+}
+
 .post article {
   padding-top: 1em;
 }
