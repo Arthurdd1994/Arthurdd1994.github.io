@@ -24,9 +24,9 @@
         </div>
       </div>
       <section>
-        {% if page.id %}
-          This is a post
-        {% endif %}
+        {% unless page.title == "Arthur Dickerson" %}
+        <h2>{{ page.title }}</h2>
+        {% endunless %}
         {{ content }}
       </section>
       <footer>
