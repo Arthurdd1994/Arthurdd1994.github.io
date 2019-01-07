@@ -13,5 +13,5 @@ Being interested in computers since a young age I was naturally drawn to a caree
 
 I have always enjoyed video games, but most fell the wayside the last few years getting settled into ‘adult’ life. I recently purchased a Nintendo Switch which has rekindled a love for video games I haven’t had in years.
 
-My newest passion has been in Audio Engineering. My interest began years ago during my time in Show Choir at my High School. Since then I began volunteering at my church [(Crosstown Alliance!)](crosstownalliance.com) on the Tech and Sound teams.
+My newest passion has been in Audio Engineering. My interest began years ago during my time in Show Choir at my High School. Since then I began volunteering at my church [(Crosstown Alliance!)](http://crosstownalliance.com) on the Tech and Sound teams.
 
