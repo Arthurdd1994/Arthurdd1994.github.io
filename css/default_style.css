@@ -84,6 +84,11 @@ body {
   color: #c0c0c0;
 }
 
+footer {
+  margin-top: 15em;
+  color: #c0c0c0;
+  text-align: center;
+}
 
 @media only screen and (max-width: 590px) {
   .header img {
