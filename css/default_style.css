@@ -74,7 +74,11 @@ body {
 .post a:hover {
   text-decoration: underline;
 }
-  
+
+.post h2 {
+  margin-bottom: 0;
+}
+
 .postDate {
   font-size: .75em;
   color: #c0c0c0;
