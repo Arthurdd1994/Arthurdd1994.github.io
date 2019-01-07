@@ -3,8 +3,6 @@ title: Archive
 layout: default
 ---
 
-## Archive
-
 <ul class="postList">
   {% for post in site.posts %}
     <li>
