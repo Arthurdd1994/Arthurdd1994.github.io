@@ -24,6 +24,9 @@
         </div>
       </div>
       <section>
+        {% if page.id %}
+          This is a post
+        {% endif %}
         {{ content }}
       </section>
       <footer>
