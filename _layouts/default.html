@@ -25,7 +25,7 @@
       </div>
       <section class="content">
         {% unless page.title == "Arthur Dickerson" %}
-        <h2>{{ page.title }}</h2>
+        <h1>{{ page.title }}</h1>
         {% endunless %}
         {% if page.id %}
           <div class="postDate">
@@ -33,6 +33,7 @@
           </div>
         {% endif %}
         {{ content }}
+        {% if page.id %}
       </section>
       <footer>
         Copyright &copy; {{ site.time | date: '%Y' }} Arthur Dickerson
