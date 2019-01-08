@@ -3,10 +3,14 @@ title: Archive
 layout: default
 ---
 
-<ul class="postList">
-  {% for post in site.posts %}
-    <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3> - {{ post.date | date: "%B %-d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <article class="post">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="postDate">
+      {{ post.date | date: "%B %-d, %Y" }}
+    </div>
+    {{ post.excerpt }}
+    <a href="{{ post.url }}">Read more...</a>
+  </article>
+  <hr>
+{% endfor %}
