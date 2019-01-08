@@ -12,9 +12,7 @@ layout: default
     {% else %}
       <h2><a href="{{ post.altURL }}">{{ post.title }}</a></h2>
     {% endif %}
-    <div class="permaLink">
-      <a href="{{ post.url }}">🔗</a>      
-    </div>
+    <a href="{{ post.url }}" class="permaLink">🔗</a>
     <div class="postDate">
       {{ post.date | date: "%B %-d, %Y" }}
     </div>
