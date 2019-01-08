@@ -7,7 +7,11 @@ layout: default
 
 {% for post in site.posts %}
   <article class="post">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {% if post.altURL == null %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {% else %}
+      <h2><a href="{{ post.altURL }}">{{ post.title }}</a></h2>
+    {% endif %}
     <div class="permaLink">
       <a href="{{ post.url }}">🔗</a>      
     </div>
