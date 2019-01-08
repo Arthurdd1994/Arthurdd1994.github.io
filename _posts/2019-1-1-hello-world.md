@@ -1,6 +1,7 @@
 ---
 title: Hello World!
 published: true
+altURL: http://google.com
 ---
 
 This is my first blog post!
