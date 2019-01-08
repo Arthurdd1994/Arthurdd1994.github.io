@@ -11,6 +11,13 @@ layout: default
     <div class="postDate">
       {{ post.date | date: "%B %-d, %Y" }}
     </div>
+    <div class="permaLink">
+      {% if post.altURL == null %}
+        <a href="{{ post.url }}">🔗</a>
+      {% else %}
+        <a href="{{ post.altURL }}">🔗</a>
+      (% endif %}
+    </div>
     {{ post.content }}
   </article>
   <hr>
