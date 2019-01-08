@@ -1,6 +1,5 @@
 ---
 title: Nerf Game Types
-layout: default
 tags: nerf
 published: true
 ---
