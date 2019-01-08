@@ -26,7 +26,11 @@
       </div>
       <section class="content">
         {% unless page.title == "Arthur Dickerson" %}
-        <h2>{{ page.title }}</h2>
+        {% if page.id == null %}
+          
+        {% else %}
+          <h2>{{ page.title }}</h2>
+        {% endif %}
         {% endunless %}
         {% if page.id %}
           <div class="postDate">
