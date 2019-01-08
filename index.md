@@ -13,7 +13,7 @@ layout: default
       <h2><a href="{{ post.altURL }}">{{ post.title }}</a></h2>
     {% endif %}
     <div class="postDate">
-      {{ post.date | date: "%B %-d, %Y" }} <a href="{{ post.url }}" class="permaLink">🔗</a>
+      {{ post.date | date: "%B %-d, %Y" }} &nbsp;&nbsp; <a href="{{ post.url }}" class="permaLink">🔗</a>
     </div>
     {{ post.content }}
   </article>
