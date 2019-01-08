@@ -27,7 +27,11 @@
       <section class="content">
         {% unless page.title == "Arthur Dickerson" %}
         {% if page.id == null %}
-          
+          {% if post.altURL == null %}
+            <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+          {% else %}
+            <h2><a href="{{ page.altURL }}">{{ page.title }}</a></h2>
+          {% endif %}
         {% else %}
           <h2>{{ page.title }}</h2>
         {% endif %}
