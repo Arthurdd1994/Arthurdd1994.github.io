@@ -98,6 +98,15 @@ body {
   color: #c0c0c0;
 }
 
+.content h2 a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.content h2 a:hover {
+  text-decoration: underline;
+}
+
 .permaLink {
   color: #c0c0c0;
   text-decoration: none;
