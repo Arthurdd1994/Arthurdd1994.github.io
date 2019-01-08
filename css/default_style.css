@@ -98,6 +98,11 @@ body {
   color: #c0c0c0;
 }
 
+.permaLink {
+  color: #c0c0c0;
+  text-decoration: none;
+}
+
 footer {
   margin-top: 15em;
   color: #c0c0c0;
