@@ -80,14 +80,13 @@ body {
   text-decoration: underline;
 }
 
-.content h1 {
-  margin-bottom: 0;
-  font-size: 1.75em;
-}
-
 .postDate {
   font-size: .75em;
   color: #c0c0c0;
+}
+
+.content h2 {
+  margin-bottom: 0;
 }
 
 .content img {
