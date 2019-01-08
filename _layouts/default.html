@@ -27,6 +27,9 @@
         {% unless page.title == "Arthur Dickerson" %}
         <h2>{{ page.title }}</h2>
         {% endunless %}
+        <div class="postDate">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </div>
         {{ content }}
       </section>
       <footer>
