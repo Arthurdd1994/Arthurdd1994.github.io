@@ -12,23 +12,41 @@ As if this announcement wasn't surprise enough: on Monday [LG](https://twitter.c
 Apple has acknowledged these announcements as well. On their website they now have a [list](https://www.apple.com/ios/home/accessories/#section-tv) of all AirPlay 2-Enables TVs. I will certainly be keeping an eye on this page throughout the coming months looking for changes and additions. Here's the current listing:
 
 >LG OLED (2019)Announced
+
 >LG NanoCell SM9X series (2019)Announced
+
 >LG NanoCell SM8X series (2019)Announced
+
 >LG UHD UM7X series (2019)Announced
+
 >Samsung QLED Series (2019 and 2018)Announced
+
 >Samsung 8 Series (2019 and 2018)Announced
+
 >Samsung 7 Series (2019 and 2018)Announced
+
 >Samsung 6 Series (2019 and 2018)Announced
+
 >Samsung 5 Series (2019 and 2018)Announced
+
 >Samsung 4 Series (2019 and 2018)Announced
+
 >Sony Z9G Series (2019)Announced
+
 >Sony A9G Series (2019)Announced
+
 >Sony X950G Series (2019)Announced
+
 >Sony X850G Series (2019 85", 75", 65" and 55" models)Announced
+
 >Vizio P-Series Quantum (2019 and 2018)Announced
+
 >Vizio P-Series (2019, 2018 and 2017)Announced
+
 >Vizio M-Series (2019, 2018 and 2017)Announced
+
 >Vizio E-Series (2019, 2018 and 2017)Announced
+
 >Vizio D-series (2019, 2018 and 2017)Announced
 
 This all seems to be leading up to the release of Apple's Netflix competitor, wishing to broaden their audience in an attempt to become a services company. We'll see how this pans out
