@@ -1,5 +1,5 @@
 ---
-title: Apple and Smart TVs
+title: Smart TVs With Apple Services
 layout: default
 tags: tech apple news
 published: true
