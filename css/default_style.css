@@ -11,6 +11,10 @@
   .postList li a {
     color: #ffffff;
   }
+  
+  .post a {
+    color: #ffffff;
+  }
 }
 
 @media (prefers-color-scheme: light) {
@@ -24,6 +28,10 @@
   }
   
   .postList li a {
+    color: #1a1a1a;
+  }
+  
+  .post a {
     color: #1a1a1a;
   }
 }
@@ -96,7 +104,6 @@ body {
 }
 
 .post a {
-  color: #ffffff;
   text-decoration: none;
 }
 
