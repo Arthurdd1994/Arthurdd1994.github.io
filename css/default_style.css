@@ -1,10 +1,39 @@
+@media (prefers-color-scheme: dark) { 
+  body{
+    background-color: #1a1a1a;
+    color: #ffffff;
+  }
+  
+  .header a {
+    color: #ffffff;
+  }
+  
+  .postList li a {
+    color: #ffffff;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #ffffff;
+    color: #1a1a1a;
+  }
+  
+  .header a {
+    color: #1a1a1a;
+  }
+  
+  .postList li a {
+    color: #1a1a1a;
+  }
+}
+
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: #1a1a1a;
-  color: #ffffff;
   margin: 0;
   padding: 0;
   font-family: 'Avenir Next', 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -38,7 +67,6 @@ body {
 }
 
 .header a {
-  color: #ffffff;
   text-decoration: none;
 }
 
@@ -57,10 +85,6 @@ body {
 
 .postList {
   list-style-type: none;
-}
-
-.postList li a {
-  color: #ffffff;
 }
 
 .postList h3 {
